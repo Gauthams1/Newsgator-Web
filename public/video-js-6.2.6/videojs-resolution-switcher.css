@@ -1,0 +1,33 @@
+.vjs-resolution-button .vjs-icon-placeholder:before{
+content: '\f110';
+font-family:VideoJS;
+font-weight:400;
+font-style:normal;
+/*font-size:1.8em;*/
+line-height:1.67em;
+width: 1.8em;
+}
+.vjs-resolution-button-label{
+display:none
+}
+.vjs-resolution-button,.vjs-menu li{text-transform:none;outline: none;left: 6.em;}
+.vjs-resolution-button,
+.vjs-menu li.vjs-selected,
+.vjs-menu li.vjs-selected:focus,
+.vjs-menu li.vjs-selected:hover{
+background-color:#ffffff;
+color:#000000;
+outline:none;
+
+}
+.vjs-resolution-button,.vjs-menu li{list-style:none;margin:0;padding:.2em 0;line-height:1.4em;font-size:1em;text-align:center;text-transform:none;left: 6.em;}
+.vjs-resolution-button,
+.vjs-menu .vjs-menu-content{
+display:block;
+padding:0;
+margin:0;
+font-family:Arial,Helvetica,sans-serif;overflow:auto;
+box-sizing:content-box;
+left:-0.em
+}
+

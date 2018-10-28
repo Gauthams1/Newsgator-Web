@@ -1,0 +1,10 @@
+{
+  "name": "Newsgator",
+  "short_name": "Newsgator",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "#2196F3",
+  "background_color": "#2196F3",
+  "gcm_sender_id": "789128893570"
+}
